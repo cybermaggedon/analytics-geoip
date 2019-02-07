@@ -1,0 +1,6 @@
+/geoip
+/vendor
+/go
+.*
+!.gitignore
+!.dockerignore
